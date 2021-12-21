@@ -1,0 +1,5 @@
+- [Getting Started](quickstart.md)
+- User Guide
+    - [Commands](commands.md)
+    - [Potions](potions.md)
+    - [Weapons](weaponds.md)
