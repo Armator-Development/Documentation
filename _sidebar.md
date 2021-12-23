@@ -2,4 +2,4 @@
 - User Guide
     - [Commands](commands.md)
     - [Potions](potions.md)
-    - [Weapons](weaponds.md)
+    - [Weapons](weapons.md)
